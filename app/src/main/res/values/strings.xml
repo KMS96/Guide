@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bottom">Bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Stadium">Stadium</string>
+    <string name="Dost">Places</string>
+    <string name="Map">Map</string>
+</resources>

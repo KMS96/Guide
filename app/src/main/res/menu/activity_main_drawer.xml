@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Spravka"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Справочник" />
+        <item
+            android:id="@+id/Guide"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Путеводитель" />
+        <item
+            android:id="@+id/Goals"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Задачи" />
+        <item
+            android:id="@+id/Settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Настройки" />
+    </group>
+</menu>
